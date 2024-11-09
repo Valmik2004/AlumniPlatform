@@ -19,13 +19,14 @@ body {
 
 .container {
     margin-top: 5rem;
-    color: white;
+    color: rgb(242, 242, 242);
     padding: 2rem;
     margin: 10vh;
     background: rgba(0, 0, 0, 0.6);
     border: 1px solid rgb(180, 180, 180);
     border-radius: 0.3rem;
     text-align: center;
+    
 }
 
 .container h1 {
