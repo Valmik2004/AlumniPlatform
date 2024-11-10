@@ -29,7 +29,7 @@ body {
     
 }
 
-
+git add .
 .container h1 {
     margin-bottom: 1.5rem;
 }
@@ -64,7 +64,7 @@ body {
     padding: 0.5rem 2rem;
     border-radius: 0.2rem;
     cursor: pointer;
-    background-color: rgb(204, 28, 204);
+    background-color: rgb(228, 209, 228);
     color: black;
     border: none;
     transition: all 0.3s ease-in;
@@ -91,6 +91,7 @@ body {
     text-decoration: underline;
     color: rgb(26, 24, 153);
 }
+
 
 .Create {
     background-color: rgb(204, 28, 204);
