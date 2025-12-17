@@ -11,7 +11,6 @@ Alumni Platform addresses these challenges with a unified platform offering esse
 
 
 
-
 Features
 1. Alumni Registration 📝
 Easy Registration: Simple processes on web and mobile for alumni to join, update profiles, and stay connected.
@@ -43,3 +42,4 @@ Backend: Express.js, MongoDB
 
 
 updated readme
+
