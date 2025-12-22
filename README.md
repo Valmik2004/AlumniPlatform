@@ -3,7 +3,6 @@
 Overview
 Welcome to our Alumni Platform! 🎉 This comprehensive Alumni Association platform is designed for Engineering College, aiming to enhance alumni engagement, support, and networking through a powerful web application suite.
 
-
 Project Description
 Background: Alumni associations are crucial for maintaining lifelong connections between graduates and their alma mater. They facilitate networking, mentorship, and philanthropy. However, many associations struggle with engagement, donations, and providing valuable services like job networking and success tracking.
 
@@ -40,6 +39,7 @@ Backend: Express.js, MongoDB
 
 
 updated readme
+
 
 
 
