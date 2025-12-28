@@ -12,19 +12,20 @@ Features
 
 1. Alumni Registration 📝
 Easy Registration: Simple processes on web and mobile for alumni to join, update profiles, and stay connected.
-2. Donation Portal 💸
+
+3. Donation Portal 💸
 Secure Donations: Effortless donation options on both platforms to support college initiatives and projects.
-3. Networking Hub 🌐
+4. Networking Hub 🌐
 Connect with Peers: Sections dedicated to networking based on interests, professions, and locations.
-4. Job Portal 💼
+5. Job Portal 💼
 Career Opportunities: Integrated job search and posting features to explore jobs and connect with potential employers.
-5. Alumni Directory 📚
+6. Alumni Directory 📚
 Search and Connect: Advanced search options to find alumni by graduation year, field of study, industry, and location.
-6. Success Story Tracking 🌟
+7. Success Story Tracking 🌟
 Showcase Achievements: Features to highlight and track alumni success stories and contributions.
-7. Events and Reunions 🎉
+8. Events and Reunions 🎉
 Organize and Manage: Tools for event announcements, registrations, and management of alumni gatherings.
-8. Feedback and Surveys 🗣️
+9. Feedback and Surveys 🗣️
 Voice of Alumni: Channels for providing feedback, suggestions, and participating in surveys to shape future initiatives.
 Expected Outcomes
 Enhanced Engagement: Foster a vibrant community with seamless access to networking, career opportunities, and events.
@@ -40,6 +41,7 @@ Backend: Express.js, MongoDB
 
 
 updated readme
+
 
 
 
