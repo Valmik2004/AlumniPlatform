@@ -1,4 +1,4 @@
-﻿Alumni Association Platform 🎓🌐
+y﻿Alumni Association Platform 🎓🌐
 
 Overview
 Welcome to our Alumni Platform! 🎉 This comprehensive Alumni Association platform is designed for Engineering College, aiming to enhance alumni engagement, support, and networking through a powerful web application suite.
@@ -41,6 +41,7 @@ Backend: Express.js, MongoDB
 
 
 updated readme
+
 
 
 
